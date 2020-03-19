@@ -1,0 +1,1 @@
+export { FormManagerRoute  as default  } from  "odc-docConfiguration";

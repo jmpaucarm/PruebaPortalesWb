@@ -1,0 +1,12 @@
+export { default as startNewProcess } from "./startNewProcess";
+export { default as ingresoOferta } from "./ingresoOferta";
+export { default as predigitacion } from "./predigitacion";
+export { default as digitacionCompleta } from "./digitacionCompleta";
+export { default as aprobarCredito } from "./aprobarCredito";
+export { default as apruebaORechaza } from "./apruebaORechaza";
+export { default as registroFirmas } from "./registroFirmas";
+export { default as documentosHabilitantes } from "./documentosHabilitantes";
+export { default as aprobarFirmas } from "./aprobarFirmas";
+export { default as aprobarFabrica } from "./aprobarFabrica";
+export { default as aprobarGerenteAgencia } from "./aprobarGerenteAgencia";
+export { default as aprobarGerenteRegional } from "./aprobarGerenteRegional";

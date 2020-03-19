@@ -1,0 +1,1 @@
+export { TypeFolderRoute as default } from "odc-docConfiguration";
