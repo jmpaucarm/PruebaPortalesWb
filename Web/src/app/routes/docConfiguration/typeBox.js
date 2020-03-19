@@ -1,0 +1,1 @@
+export { TypeBoxRoute as default } from "odc-docConfiguration";
